@@ -1,0 +1,7 @@
+format: jb-article
+root: docs/index
+sections:
+- file: docs/about_js
+- file: docs/getting_started
+- file: docs/js_by_example
+- file: docs/learn_more
